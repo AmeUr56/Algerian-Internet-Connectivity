@@ -18,7 +18,6 @@ class Record(BaseModel):
     Rank_Upload: int
     Rank_Download: int
     Rank_Latency: int
-    NumberRecord:str
 
 # Define the Data model for the request body
 class Data(BaseModel):
