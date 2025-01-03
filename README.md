@@ -1,5 +1,5 @@
 # Project Idea:
-Internet Speed Progress in Algeria
+Algerian Internet Connectivity
 
 ## Overview
 This project explores and analyzes the Ookla internet dataset about Algeria using exploratory data analysis (EDA) techniques. The goal is to understand trends, patterns, and insights from the data.
